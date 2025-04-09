@@ -6,7 +6,7 @@ Cada modelo que aprendas será un monstruo invocado, cada algoritmo, una carta t
 ¡Usa el corazón de las cartas y despierta al experto en IA que llevas dentro!
 
 
-![ML](advanced-ai-path/img/yugiMLCards.png)
+![ML](img/yugiMLCards.png)
 
 ---
 
