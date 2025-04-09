@@ -119,3 +119,9 @@ Los participantes deben tener formación sólida en **Ingeniería, Estidsitia, M
     **Editorial:** O’Reilly  
     **Enlace:** [O'Reilly - Deep Learning from Scratch](https://www.oreilly.com/library/view/deep-learning-from/9781492041413/)
 ---
+
+## 📜 Licencia
+
+[![Licencia: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Este repositorio está licenciado bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+© 2025 Alexander Saravia
