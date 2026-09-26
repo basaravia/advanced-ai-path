@@ -1,0 +1,24 @@
+# Dependencias mínimas para ejecutar los 10 notebooks en CPU (Python >= 3.11)
+# Instalación recomendada: uv venv .venv && source .venv/bin/activate && uv pip install -r requirements.txt
+jupyterlab>=4.2
+ipykernel>=6.29
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+matplotlib>=3.9
+seaborn>=0.13
+scikit-learn>=1.5
+torch>=2.4          # CPU es suficiente; para GPU sigue https://pytorch.org/get-started/locally/
+networkx>=3.3
+gymnasium>=1.0
+pydantic>=2.7
+pyarrow>=16.0
+
+# --- Opcionales por módulo (descomenta lo que necesites) ---
+# polars>=1.0 duckdb>=1.0 pyspark>=4.0 mlflow>=3.0 fastapi uvicorn          # M9
+# transformers>=4.45 accelerate peft trl sentence-transformers               # M5-M6
+# diffusers>=0.30                                                            # M4
+# torch_geometric>=2.6                                                       # M7
+# stable-baselines3>=2.3                                                     # M8
+# shap>=0.46 fairlearn>=0.11                                                 # M10
+# langchain>=1.0 langgraph>=1.0 "mcp[cli]" anthropic openai optuna mapie     # M2, M6
