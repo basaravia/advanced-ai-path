@@ -68,6 +68,7 @@ Esta revisión se hizo **validando cada cita de capítulo contra el índice real
 | Spark/MLlib | Polars/DuckDB → Spark 4, lakehouse, LLMOps | Escala por etapas; la mayoría de los equipos no necesita un clúster |
 | AI Act como "regulación futura" | AI Act **en vigor**: prohibiciones (feb-2025), GPAI (ago-2025), transparencia (ago-2026), alto riesgo Anexo III (dic-2027, aplazado), Anexo I (ago-2028) | Calendario verificado en artificialintelligenceact.eu (sep-2026) |
 | Sin notebooks | **10 notebooks ejecutables** en CPU, sin claves de API | Aprender implementando desde cero y comparando con la librería estándar |
+| Sin enlaces al material de los libros | Sección **📦 Recursos** en cada notebook + [`docs/recursos_repositorios.md`](docs/recursos_repositorios.md) | Los repos oficiales (handson-ml3, ISLP_labs, D2L, HandsOnLLM, nlp-with-transformers, DLFS_code, LinAlg4DataScience, gedeck, generative-ai-on-aws, aie-book, dmls-book, Sutton & Barto en Python) traen notebooks y datasets reales listos para practicar |
 
 ---
 
@@ -91,7 +92,7 @@ Esta revisión se hizo **validando cada cita de capítulo contra el índice real
 
 ## 📚 Bibliografía principal
 
-Índices verificados en septiembre de 2026 (repositorios oficiales de código y páginas de los autores; detalle en [`docs/validacion_bibliografica.md`](docs/validacion_bibliografica.md)).
+Índices verificados en septiembre de 2026 (repositorios oficiales de código y páginas de los autores; detalle en [`docs/validacion_bibliografica.md`](docs/validacion_bibliografica.md)). Los notebooks, datasets y utilidades que ofrece cada repositorio, y cómo se aprovechan por módulo, están en [`docs/recursos_repositorios.md`](docs/recursos_repositorios.md); además, cada notebook de la malla termina con una sección **📦 Recursos de los repositorios oficiales** con enlaces directos (Colab) al capítulo correspondiente.
 
 1. **Bruce, P., Bruce, A. & Gedeck, P. (2020).** *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python* (2nd ed.). O'Reilly. Código: <https://github.com/gedeck/practical-statistics-for-data-scientists>
 2. **James, G., Witten, D., Hastie, T., Tibshirani, R. & Taylor, J. (2023).** *An Introduction to Statistical Learning with Applications in Python* (ISLP). Springer. Gratuito: <https://www.statlearning.com/> · Labs: <https://github.com/intro-stat-learning/ISLP_labs>
